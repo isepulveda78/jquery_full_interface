@@ -1,0 +1,129 @@
+[
+    {
+        "id": "0",
+        "name": "shirt",
+        "category": "shirt",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/shirt.png"
+    },
+    {
+        "id": "1",
+        "name": "Hat",
+        "category": "hat",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/hat.png"
+    },
+    {
+        "id": "2",
+        "name": "socks",
+        "category": "socks",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/socks.png"
+    },
+    {
+        "id": "3",
+        "name": "shirt",
+        "category": "shirt",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/shirt.png"
+    },
+    {
+        "id": "4",
+        "name": "Hat",
+        "category": "hat",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/hat.png"
+    },
+    {
+        "id": "5",
+        "name": "socks",
+        "category": "socks",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/socks.png"
+    },
+    {
+        "id": "6",
+        "name": "shirt",
+        "category": "shirt",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/shirt.png"
+    },
+    {
+        "id": "7",
+        "name": "Hat",
+        "category": "hat",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/hat.png"
+    },
+    {
+        "id": "8",
+        "name": "socks",
+        "category": "socks",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/socks.png"
+    },    
+    {
+        "id": "9",
+        "name": "shirt",
+        "category": "shirt",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/shirt.png"
+    },
+    {
+        "id": "10",
+        "name": "Hat",
+        "category": "hat",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/hat.png"
+    },
+    {
+        "id": "11",
+        "name": "socks",
+        "category": "socks",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/socks.png"
+    },
+    {
+        "id": "12",
+        "name": "shirt",
+        "category": "shirt",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/shirt.png"
+    },
+    {
+        "id": "13",
+        "name": "Hat",
+        "category": "hat",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/hat.png"
+    },
+    {
+        "id": "14",
+        "name": "socks",
+        "category": "socks",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/socks.png"
+    },
+    {
+        "id": "15",
+        "name": "shirt",
+        "category": "shirt",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/shirt.png"
+    },
+    {
+        "id": "16",
+        "name": "Hat",
+        "category": "hat",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/hat.png"
+    },
+    {
+        "id": "17",
+        "name": "socks",
+        "category": "socks",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "img": "img/socks.png"
+    }
+
+]
